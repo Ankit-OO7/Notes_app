@@ -1,8 +1,8 @@
-# swift_note
+# Swift_note
 
 A new Flutter project.
 
-## Getting Started
+## Notes app
 
 This project is a starting point for a Flutter application.
 
